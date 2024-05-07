@@ -11,7 +11,7 @@ Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
 실습에 필요한 이미지들 또한 imgs 폴더 내에서 접근하실 수 있으며, 이 이미지들은 다운받아서 Google Colab 실습환경에 업로드 하셔야 합니다.
 
 ## Python 기본 문법 매뉴얼
-**[바로가기(준비중)](#)**
+제공되는 ipynb 파일 내에 강의자료에 탑재된 기본 문법 실습코드와 간단한 과제가 포함되어 있습니다.
 
 ## 저에 대해 더 궁금하신가요?
 * [Website](http://itsc.kr)
