@@ -18,4 +18,7 @@ Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
 * [Facebook](https://www.facebook.com/taewonkang.13/)
 * [LinkedIn](https://www.linkedin.com/in/taewon-kang/)
 
+## LICENSE
+본 실습자료의 무단전재와 복사, 배포, 상업적인 용도의 이용을 금지합니다.
+
 ## Reference
