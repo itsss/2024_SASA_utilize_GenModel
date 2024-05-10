@@ -1,5 +1,5 @@
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://raw.githubusercontent.com/NVIDIA/FastPhotoStyle/master/LICENSE.md)
-![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
+![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
 # 2024 세종과학예술영재학교 How to utilize Generative Models 강의 실습 자료 (24.05.08)
 
 Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
