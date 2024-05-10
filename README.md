@@ -4,6 +4,11 @@
 
 Contact: Taewon Kang (itschool [At] itsc [Dot] kr)
 
+## 결과물 온라인 아카이빙
+[![How to utilize Generative Models](https://img.youtube.com/vi/WeLmDt36v3M/0.jpg)](https://www.youtube.com/watch?v=WeLmDt36v3M) 
+
+https://youtu.be/WeLmDt36v3M
+
 ## 실습 자료 다운로드 방법
 
 **Download ZIP 버튼을 눌러 실습자료를 다운받고, ipynb 파일을 Google Colab에 추가해주세요.**
